@@ -3,18 +3,21 @@
     "title": "Drive Mad",
     "img": "images/drivemad.jpg",
     "url": "all-games/drive-mad.html",
-    "category": "trending"
+    "category": "trending",
+    "tag": "hot"
   },
   {
     "title": "Retro Bowl",
     "img": "images/retrobowl.jpg",
     "url": "all-games/retro-bowl.html",
-    "category": "trending"
+    "category": "trending",
+    "tag": "none"
   },
   {
     "title": "Smash Karts",
     "img": "images/smashkarts.jpg",
     "url": "all-games/smash-karts.html",
-    "category": "recent"
+    "category": "recent",
+    "tag": "new"
   }
 ]
