@@ -1,5 +1,12 @@
 [
   {
+    "title": "Hollow Knight",
+    "img": "images/hollowknight.jpg",
+    "url": "all-games/hollowknight.html",
+    "category": "recent",
+    "tag": "new"
+  },
+  {
     "title": "Retro Bowl",
     "img": "images/retrobowl.jpg",
     "url": "all-games/retro-bowl.html",
