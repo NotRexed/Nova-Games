@@ -1,0 +1,428 @@
+[
+  {
+    "title": "Retro Bowl",
+    "img": "images/retrobowl.jpg",
+    "url": "all-games/retro-bowl.html",
+    "category": "trending",
+    "tag": "hot"
+  },
+  {
+    "title": "Drive Mad",
+    "img": "images/drivemad.jpg",
+    "url": "all-games/drive-mad.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "Subway Surfers",
+    "img": "images/subwaysurfers.jpg",
+    "url": "all-games/subway-surfers.html",
+    "category": "trending",
+    "tag": "hot"
+  },
+  {
+    "title": "Basketball Stars",
+    "img": "images/basketballstars.jpg",
+    "url": "all-games/basketball-stars.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "A Small World Cup",
+    "img": "images/asmallworldcup.jpg",
+    "url": "all-games/a-small-world-cup.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "Happy Glass",
+    "img": "images/happyglass.jpg",
+    "url": "all-games/happy-glass.html",
+    "category": "trending",
+    "tag": "new"
+  },
+  {
+    "title": "Basket Random",
+    "img": "images/basketrandom.jpg",
+    "url": "all-games/basket-random.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "Penalty Kicks",
+    "img": "images/penaltykicks.jpg",
+    "url": "all-games/penalty-kicks.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "3D Free Kick",
+    "img": "images/3dfreekick.jpg",
+    "url": "all-games/3d-free-kick.html",
+    "category": "trending",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M",
+    "img": "images/motox3m.jpg",
+    "url": "all-games/moto-x3m.html",
+    "category": "trending",
+    "tag": "none"
+  },
+
+  {
+    "title": "Happy Glass",
+    "img": "images/happyglass.jpg",
+    "url": "all-games/happy-glass.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Super Liquid Soccer",
+    "img": "images/superliquidsoccer.jpg",
+    "url": "all-games/super-liquid-soccer.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Wordscapes",
+    "img": "images/wordscapes.jpg",
+    "url": "all-games/wordscapes.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Monster Tracks",
+    "img": "images/monstertrackstext.jpg",
+    "url": "all-games/monster-tracks.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "3D Free Kick",
+    "img": "images/3dfreekick.jpg",
+    "url": "all-games/3d-free-kick.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Block Blast",
+    "img": "images/blockblast.jpg",
+    "url": "all-games/block-blast.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Blumgi Soccer",
+    "img": "images/blumgisoccer.jpg",
+    "url": "all-games/blumgi-soccer.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Smash Karts",
+    "img": "images/smashkarts.jpg",
+    "url": "all-games/smash-karts.html",
+    "category": "recent",
+    "tag": "none"
+  },
+  {
+    "title": "Bad Ice Cream",
+    "img": "images/badicecream.jpg",
+    "url": "all-games/bad-ice-cream.html",
+    "category": "recent",
+    "tag": "none"
+  },
+
+  {
+    "title": "Drive Mad",
+    "img": "images/drivemad.jpg",
+    "url": "all-games/drive-mad.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Basket Bros",
+    "img": "images/basketbros.jpg",
+    "url": "all-games/basket-bros.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Edge Surf",
+    "img": "images/edgesurf.jpg",
+    "url": "all-games/edge-surf.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Eggy Car",
+    "img": "images/eggycar.jpg",
+    "url": "all-games/eggy-car.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "World's Hardest Game",
+    "img": "images/worldshardestgame.jpg",
+    "url": "all-games/worlds-hardest-game.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Wordle",
+    "img": "images/wordle.jpg",
+    "url": "all-games/wordle.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Retro Bowl",
+    "img": "images/retrobowl.jpg",
+    "url": "all-games/retro-bowl.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Idle Breakout",
+    "img": "images/idlebreakout.jpg",
+    "url": "all-games/idle-breakout.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+  {
+    "title": "Ragdoll Battle 2",
+    "img": "images/ragdollbattle.jpg",
+    "url": "all-games/ragdoll-battle-2.html",
+    "category": "strategy",
+    "tag": "none"
+  },
+
+  {
+    "title": "Penalty Kicks",
+    "img": "images/penaltykicks.jpg",
+    "url": "all-games/penalty-kicks.html",
+    "category": "sports",
+    "tag": "hot"
+  },
+  {
+    "title": "Mini Putt",
+    "img": "images/miniputt.jpg",
+    "url": "all-games/mini-putt.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "Basketball Stars",
+    "img": "images/basketballstars.jpg",
+    "url": "all-games/basketball-stars.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "8 Ball Pool",
+    "img": "images/8ballpool.jpg",
+    "url": "all-games/8-ball-pool.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "Edge Surf",
+    "img": "images/edgesurf.jpg",
+    "url": "all-games/edge-surf.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "Formula1 Racer",
+    "img": "images/f1racer.jpg",
+    "url": "all-games/formula1-racer.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "A Small World Cup",
+    "img": "images/asmallworldcup.jpg",
+    "url": "all-games/a-small-world-cup.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "Getting Over It",
+    "img": "images/gettingoverit.jpg",
+    "url": "all-games/getting-over-it.html",
+    "category": "sports",
+    "tag": "none"
+  },
+  {
+    "title": "1v1.lol",
+    "img": "images/1v1lol.jpg",
+    "url": "all-games/1v1-lol.html",
+    "category": "sports",
+    "tag": "none"
+  },
+
+  {
+    "title": "Papa's Pizzeria",
+    "img": "images/papaspizzeria.jpg",
+    "url": "all-games/papas-pizzeria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Freezeria",
+    "img": "images/papasfreezeria.webp",
+    "url": "all-games/papas-freezeria.html",
+    "category": "papalouie",
+    "tag": "hot"
+  },
+  {
+    "title": "Papa's Cheeseria",
+    "img": "images/papascheeseria.webp",
+    "url": "all-games/papas-cheeseria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Burgeria",
+    "img": "images/papasburgeria.jpg",
+    "url": "all-games/papas-burgeria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Sushiria",
+    "img": "images/papassushiria.jpg",
+    "url": "all-games/papas-sushiria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Cupcakeria",
+    "img": "images/papascupcakeria.webp",
+    "url": "all-games/papas-cupcakeria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Tacomia",
+    "img": "images/papastacomia.webp",
+    "url": "all-games/papas-tacomia.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Hot Doggeria",
+    "img": "images/papashotdoggeria.webp",
+    "url": "all-games/papas-hot-doggeria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Pastaria",
+    "img": "images/papaspastaria.webp",
+    "url": "all-games/papas-pastaria.html",
+    "category": "papalouie",
+    "tag": "none"
+  },
+
+  {
+    "title": "Mario Kart 64",
+    "img": "images/mariokart64.jpg",
+    "url": "all-games/mario-kart-64.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "Pokemon Platinum",
+    "img": "images/pokemonplatinum.jpg",
+    "url": "all-games/pokemon-platinum.html",
+    "category": "emulated",
+    "tag": "new"
+  },
+  {
+    "title": "Donkey Kong Country",
+    "img": "images/donkeykongcountry.jpg",
+    "url": "all-games/donkey-kong-country.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "Super Mario 64",
+    "img": "images/supermario64.jpg",
+    "url": "all-games/super-mario-64.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "Pokemon Emerald",
+    "img": "images/pokemonemerald.jpg",
+    "url": "all-games/pokemon-emerald.html",
+    "category": "emulated",
+    "tag": "hot"
+  },
+  {
+    "title": "Pokemon FireRed",
+    "img": "images/pokemonfirered.jpg",
+    "url": "all-games/pokemon-firered.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "Pokemon Ruby",
+    "img": "images/pokemonruby.jpg",
+    "url": "all-games/pokemon-ruby.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "Pokemon Sapphire",
+    "img": "images/pokemonsapphire.jpg",
+    "url": "all-games/pokemon-sapphire.html",
+    "category": "emulated",
+    "tag": "new"
+  },
+  {
+    "title": "Mario Kart DS",
+    "img": "images/mariokartds.jpg",
+    "url": "all-games/mario-kart-ds.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+  {
+    "title": "New Super Mario Bros",
+    "img": "images/newsupermariobros.jpg",
+    "url": "all-games/new-super-mario-bros.html",
+    "category": "emulated",
+    "tag": "none"
+  },
+
+  {
+    "title": "Basket Random",
+    "img": "images/basketrandom.jpg",
+    "url": "all-games/basket-random.html",
+    "category": "twoplayer",
+    "tag": "none"
+  },
+  {
+    "title": "Soccer Random",
+    "img": "images/soccerrandom.jpg",
+    "url": "all-games/soccer-random.html",
+    "category": "twoplayer",
+    "tag": "none"
+  },
+  {
+    "title": "Volley Random",
+    "img": "images/volleyrandom.jpg",
+    "url": "all-games/volley-random.html",
+    "category": "twoplayer",
+    "tag": "none"
+  },
+  {
+    "title": "Boxing Random",
+    "img": "images/boxingrandom.jpg",
+    "url": "all-games/boxing-random.html",
+    "category": "twoplayer",
+    "tag": "none"
+  }
+]
