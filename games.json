@@ -1,5 +1,4 @@
 [
-  /* ---------------- TRENDING ---------------- */
   {
     "title": "Retro Bowl",
     "img": "images/retrobowl.jpg",
@@ -71,7 +70,6 @@
     "tag": "none"
   },
 
-  /* ---------------- RECENTLY ADDED ---------------- */
   {
     "title": "Happy Glass",
     "img": "images/happyglass.jpg",
@@ -136,7 +134,6 @@
     "tag": "none"
   },
 
-  /* ---------------- STRATEGY ---------------- */
   {
     "title": "Drive Mad",
     "img": "images/drivemad.jpg",
@@ -201,7 +198,6 @@
     "tag": "none"
   },
 
-  /* ---------------- SPORTS ---------------- */
   {
     "title": "Penalty Kicks",
     "img": "images/penaltykicks.jpg",
@@ -266,7 +262,6 @@
     "tag": "none"
   },
 
-  /* ---------------- PAPA LOUIE ---------------- */
   {
     "title": "Papa's Pizzeria",
     "img": "images/papaspizzeria.jpg",
@@ -331,7 +326,6 @@
     "tag": "none"
   },
 
-  /* ---------------- EMULATED ---------------- */
   {
     "title": "Mario Kart 64",
     "img": "images/mariokart64.jpg",
@@ -403,7 +397,6 @@
     "tag": "none"
   },
 
-  /* ---------------- TWO PLAYER ---------------- */
   {
     "title": "Basket Random",
     "img": "images/basketrandom.jpg",
