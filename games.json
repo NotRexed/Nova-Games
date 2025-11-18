@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Drive Mad",
+    "img": "images/drivemad.jpg",
+    "url": "all-games/drive-mad.html",
+    "category": "trending"
+  },
+  {
+    "title": "Retro Bowl",
+    "img": "images/retrobowl.jpg",
+    "url": "all-games/retro-bowl.html",
+    "category": "trending"
+  },
+  {
+    "title": "Smash Karts",
+    "img": "images/smashkarts.jpg",
+    "url": "all-games/smash-karts.html",
+    "category": "recent"
+  }
+]
