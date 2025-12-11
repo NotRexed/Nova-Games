@@ -606,54 +606,5 @@
     "category": "car",
     "description": "A wobbly physics driving challenge with surprising obstacles.",
     "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  {
-    "title": "Change",
-    "img": "images/Change.jpg",
-    "url": "all-games/Change.html",
-    "category": "none",
-    "description": "change",
-    "tag": "none"
-  },
-  
+  }
 ]
