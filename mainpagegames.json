@@ -592,7 +592,7 @@
     "tag": "none"
   },
   {
-    "title": "Driss Hunters",
+    "title": "Drift Hunters",
     "img": "images/drifthunters.jpg",
     "url": "all-games/drifthunters.html",
     "category": "car",
@@ -605,6 +605,590 @@
     "url": "all-games/drivemad.html",
     "category": "car",
     "description": "A wobbly physics driving challenge with surprising obstacles.",
+    "tag": "none"
+  },
+  {
+    "title": "Duck Life Games",
+    "img": "images/ducklifegames.jpg",
+    "url": "all-games/ducklifegames.html",
+    "category": "trending",
+    "description": "Train and race evolving ducks across multiple skills.",
+    "tag": "none"
+  },
+  {
+    "title": "EmulatorJS",
+    "img": "images/emulatorjs.jpg",
+    "url": "all-games/emulatorjs.html",
+    "category": "emulated",
+    "description": "An in-browser emulator for classic retro game ROMs.",
+    "tag": "none"
+  },
+  {
+    "title": "Smashy Road Games",
+    "img": "images/smashyroadgames.jpg",
+    "url": "all-games/smashyroadgames.html",
+    "category": "car",
+    "description": "Escape police in chaotic car chases with random worlds.",
+    "tag": "none"
+  },
+  {
+    "title": "Fallout",
+    "img": "images/fallout.jpg",
+    "url": "all-games/fallout.html",
+    "category": "other",
+    "description": "A simplified mini-Fallout experience with survival mechanics.",
+    "tag": "none"
+  },
+  {
+    "title": "Flappy Bird",
+    "img": "images/flappybird.jpg",
+    "url": "all-games/flappybird.html",
+    "category": "trending",
+    "description": "Tap to navigate gaps in pipes in this iconic endless flier.",
+    "tag": "none"
+  },
+  {
+    "title": "Flappy Dunk",
+    "img": "images/flappydunk.jpg",
+    "url": "all-games/flappydunk.html",
+    "category": "trending",
+    "description": "Tap to sink a bouncing ball through hoops mid-air.",
+    "tag": "none"
+  },
+  {
+    "title": "Fruit Ninja",
+    "img": "images/fruitninja.jpg",
+    "url": "all-games/fruitninja.html",
+    "category": "trending",
+    "description": "Slice fruit mid-air with quick swipes and combos.",
+    "tag": "none"
+  },
+  {
+    "title": "Geometry Dash",
+    "img": "images/geometrydash.jpg",
+    "url": "all-games/geometrydash.html",
+    "category": "trending",
+    "description": "A rhythm-platformer with fast levels and precise timing.",
+    "tag": "none"
+  },
+  {
+    "title": "Getaway Shootout",
+    "img": "images/getawayshootout.jpg",
+    "url": "all-games/getawayshootout.html",
+    "category": "trending",
+    "description": "Race and shoot your way to the getaway vehicle.",
+    "tag": "none"
+  },
+  {
+    "title": "Gobble",
+    "img": "images/gobble.jpg",
+    "url": "all-games/gobble.html",
+    "category": "other",
+    "description": "A minimal arcade game centered on eating smaller dots to grow.",
+    "tag": "none"
+  },
+  {
+    "title": "Going Balls",
+    "img": "images/goingballs.jpg",
+    "url": "all-games/goingballs.html",
+    "category": "trending",
+    "description": "Roll a ball through obstacle-filled courses with momentum.",
+    "tag": "none"
+  },
+  {
+    "title": "Google Baseball",
+    "img": "images/googlebaseball.jpg",
+    "url": "all-games/googlebaseball.html",
+    "category": "sports",
+    "description": "A fun baseball minigame from Google Doodles.",
+    "tag": "none"
+  },
+  {
+    "title": "Granny Games",
+    "img": "images/grannygames.jpg",
+    "url": "all-games/grannygames.html",
+    "category": "other",
+    "description": "Escape a creepy house while avoiding Granny’s traps.",
+    "tag": "none"
+  },
+  {
+    "title": "Growden",
+    "img": "images/growden.jpg",
+    "url": "all-games/growden.html",
+    "category": "other",
+    "description": "A growth-based arena game where you eat to become stronger.",
+    "tag": "none"
+  },
+  {
+    "title": "Gunspin",
+    "img": "images/gunspin.jpg",
+    "url": "all-games/gunspin.html",
+    "category": "other",
+    "description": "Shoot your gun to propel yourself forward in the air.",
+    "tag": "none"
+  },
+  {
+    "title": "Happy Wheels",
+    "img": "images/happywheels.jpg",
+    "url": "all-games/happywheels.html",
+    "category": "trending",
+    "description": "A ragdoll physics obstacle course with gruesome humor.",
+    "tag": "none"
+  },
+  {
+    "title": "Highway Racer Games",
+    "img": "images/highwayracergames.jpg",
+    "url": "all-games/highwayracergames.html",
+    "category": "car",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Human Expenditure Program",
+    "img": "images/humanexpenditureprogram.jpg",
+    "url": "all-games/humanexpenditureprogram.html",
+    "category": "other",
+    "description": "A dark experimental game about testing humans in trials.",
+    "tag": "none"
+  },
+  {
+    "title": "Idle Breakout",
+    "img": "images/idlebreakout.jpg",
+    "url": "all-games/idlebreakout.html",
+    "category": "strategy",
+    "description": "Idle brick breaker with upgrades and auto-attacking balls.",
+    "tag": "none"
+  },
+  {
+    "title": "Idle Lumber",
+    "img": "images/idlelumber.jpg",
+    "url": "all-games/idlelumber.html",
+    "category": "strategy",
+    "description": "Chop, sell, and automate wood production.",
+    "tag": "none"
+  },
+  {
+    "title": "Idle Miner",
+    "img": "images/idleminer.jpg",
+    "url": "all-games/idleminer.html",
+    "category": "strategy",
+    "description": "Expand mines, hire workers, and grow passive income.",
+    "tag": "none"
+  },
+  {
+    "title": "Jelly Drift",
+    "img": "images/jellydrift.jpg",
+    "url": "all-games/jellydrift.html",
+    "category": "car",
+    "description": "A drifting game with jelly-like cars and goofy physics.",
+    "tag": "none"
+  },
+  {
+    "title": "Jelly Mario",
+    "img": "images/jellymario.jpg",
+    "url": "all-games/jellymario.html",
+    "category": "other",
+    "description": "A floppy, physics-broken Mario parody.",
+    "tag": "none"
+  },
+  {
+    "title": "Jetpack Joyride",
+    "img": "images/jetpackjoyride.jpg",
+    "url": "all-games/jetpackjoyride.html",
+    "category": "trending",
+    "description": "A side-scrolling jetpack runner dodging hazards.",
+    "tag": "none"
+  },
+  {
+    "title": "Johnny Trigger",
+    "img": "images/johnnytrigger.jpg",
+    "url": "all-games/johnnytrigger.html",
+    "category": "shooter",
+    "description": "A slow-motion action shooter with stylish flips.",
+    "tag": "none"
+  },
+  {
+    "title": "JustFall.lol",
+    "img": "images/justfalllol.jpg",
+    "url": "all-games/justfalllol.html",
+    "category": "twoplayer",
+    "description": "A Fall Guys-style multiplayer survival platformer.",
+    "tag": "none"
+  },
+  {
+    "title": "Karlson",
+    "img": "images/karlson.jpg",
+    "url": "all-games/karlson.html",
+    "category": "shooter",
+    "description": "A meme-FPS parkour milk-man game by Dani.",
+    "tag": "none"
+  },
+  {
+    "title": "Balatro",
+    "img": "images/balatro.jpg",
+    "url": "all-games/balatro.html",
+    "category": "strategy",
+    "description": "A roguelike poker game mixing cards, combos, and strategy.",
+    "tag": "none"
+  },
+  {
+    "title": "Madalin Stunt Cars",
+    "img": "images/madalinstuntcars.jpg",
+    "url": "all-games/madalinstuntcars.html",
+    "category": "car",
+    "description": "Open-world stunt driving with high-speed supercars.",
+    "tag": "none"
+  },
+  {
+    "title": "Mega Car Jumps",
+    "img": "images/megacarjumps.jpg",
+    "url": "all-games/megacarjumps.html",
+    "category": "car",
+    "description": "Launch cars off massive ramps for distance and destruction.",
+    "tag": "none"
+  },
+  {
+    "title": "Melon Playground",
+    "img": "images/melonplayground.jpg",
+    "url": "all-games/melonplayground.html",
+    "category": "other",
+    "description": "A sandbox for experimenting with ragdoll melons.",
+    "tag": "none"
+  },
+  {
+    "title": "Metal Gear Solid",
+    "img": "images/metalgearsolid.jpg",
+    "url": "all-games/metalgearsolid.html",
+    "category": "other",
+    "description": "A stealth-action classic about infiltration and strategy.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft Versions",
+    "img": "images/minecraftversions.jpg",
+    "url": "all-games/minecraftversions.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Monster Tracks",
+    "img": "images/monstertracks.jpg",
+    "url": "all-games/monstertracks.html",
+    "category": "car",
+    "description": "Race monster trucks across rugged obstacle courses.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto Games",
+    "img": "images/motogames.jpg",
+    "url": "all-games/motogames.html",
+    "category": "car",
+    "description": "Bike racing and stunt challenges of all kinds.",
+    "tag": "none"
+  },
+  {
+    "title": "Offroad Mountain Bike",
+    "img": "images/offroadmountainbike.jpg",
+    "url": "all-games/offroadmountainbike.html",
+    "category": "sports",
+    "description": "A downhill biking game across rough terrain.",
+    "tag": "none"
+  },
+  {
+    "title": "OVO Games",
+    "img": "images/ovogames.jpg",
+    "url": "all-games/ovogames.html",
+    "category": "trending",
+    "description": "Precision parkour platformers with fast movement.",
+    "tag": "none"
+  },
+  {
+    "title": "Papas Games",
+    "img": "images/papasgames.jpg",
+    "url": "all-games/papasgames.html",
+    "category": "papalouie",
+    "description": "Cooking and restaurant simulators with time-management gameplay.",
+    "tag": "none"
+  },
+  {
+    "title": "Pixel Gun Survival",
+    "img": "images/pixelgunsurvival.jpg",
+    "url": "all-games/pixelgunsurvival.html",
+    "category": "shooter",
+    "description": "A blocky shooter surviving waves of enemies.",
+    "tag": "none"
+  },
+  {
+    "title": "Plants VS Zombies",
+    "img": "images/plantsvszombies.jpg",
+    "url": "all-games/plantsvszombies.html",
+    "category": "strategy",
+    "description": "Defend your home with plant defenses against zombies.",
+    "tag": "none"
+  },
+  {
+    "title": "Plinko",
+    "img": "images/plinko.jpg",
+    "url": "all-games/plinko.html",
+    "category": "other",
+    "description": "Drop chips into pegs aiming for high-value slots.",
+    "tag": "none"
+  },
+  {
+    "title": "Poly Track",
+    "img": "images/polytrack.jpg",
+    "url": "all-games/polytrack.html",
+    "category": "car",
+    "description": "Build and race on custom low-poly race tracks.",
+    "tag": "none"
+  },
+  {
+    "title": "Red Ball",
+    "img": "images/redball.jpg",
+    "url": "all-games/redball.html",
+    "category": "trending",
+    "description": "A physics platformer starring a rolling red ball.",
+    "tag": "none"
+  },
+  {
+    "title": "Retro Bowl",
+    "img": "images/retrobowl.jpg",
+    "url": "all-games/retrobowl.html",
+    "category": "sports",
+    "description": "A retro-style American football team management game.",
+    "tag": "none"
+  },
+  {
+    "title": "Rooftop Snipers",
+    "img": "images/rooftopsnipers.jpg",
+    "url": "all-games/rooftopsnipers.html",
+    "category": "twoplayer",
+    "description": "A two-button physics shooter on thin rooftops.",
+    "tag": "none"
+  },
+  {
+    "title": "Run Games",
+    "img": "images/rungames.jpg",
+    "url": "all-games/rungames.html",
+    "category": "trending",
+    "description": "Endless running games dodging obstacles and enemies.",
+    "tag": "none"
+  },
+  {
+    "title": "Sandtris",
+    "img": "images/sandtris.jpg",
+    "url": "all-games/sandtris.html",
+    "category": "other",
+    "description": "A sandbox falling-sand and Tetris hybrid.",
+    "tag": "none"
+  },
+  {
+    "title": "Sky Riders",
+    "img": "images/skyriders.jpg",
+    "url": "all-games/skyriders.html",
+    "category": "car",
+    "description": "A high-speed racing game on floating tracks.",
+    "tag": "none"
+  },
+  {
+    "title": "Slowroads",
+    "img": "images/slowroads.jpg",
+    "url": "all-games/slowroads.html",
+    "category": "car",
+    "description": "A relaxing endless driving experience.",
+    "tag": "none"
+  },
+  {
+    "title": "Smash Karts",
+    "img": "images/smashkarts.jpg",
+    "url": "all-games/smashkarts.html",
+    "category": "car",
+    "description": "A multiplayer kart battle arena game.",
+    "tag": "none"
+  },
+  {
+    "title": "Snow Battle",
+    "img": "images/snowbattle.jpg",
+    "url": "all-games/snowbattle.html",
+    "category": "other",
+    "description": "A snowball combat game with multiplayer modes.",
+    "tag": "none"
+  },
+  {
+    "title": "Snow Rider 3D",
+    "img": "images/snowrider3d.jpg",
+    "url": "all-games/snowrider3d.html",
+    "category": "sports",
+    "description": "A downhill sledding game dodging obstacles.",
+    "tag": "none"
+  },
+  {
+    "title": "Soundboard",
+    "img": "images/soundboard.jpg",
+    "url": "all-games/soundboard.html",
+    "category": "other",
+    "description": "A collection of meme, character, or effect sound buttons.",
+    "tag": "none"
+  },
+  {
+    "title": "Station 141",
+    "img": "images/station141.jpg",
+    "url": "all-games/station141.html",
+    "category": "other",
+    "description": "A horror escape game in an abandoned research station.",
+    "tag": "none"
+  },
+  {
+    "title": "Steal A Brainrot",
+    "img": "images/stealabrainrot.jpg",
+    "url": "all-games/stealabrainrot.html",
+    "category": "other",
+    "description": "A chaotic meme-themed stealth game about stealing brainrot.",
+    "tag": "none"
+  },
+  {
+    "title": "Stickman and Guns",
+    "img": "images/stickmanandguns.jpg",
+    "url": "all-games/stickmanandguns.html",
+    "category": "shooter",
+    "description": "A shooter with stickman characters and weapon upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Stickman Hook",
+    "img": "images/stickmanhook.jpg",
+    "url": "all-games/stickmanhook.html",
+    "category": "trending",
+    "description": "A grappling swing-game with timing-based momentum.",
+    "tag": "none"
+  },
+  {
+    "title": "Subway Surfers",
+    "img": "images/subwaysurfers.jpg",
+    "url": "all-games/subwaysurfers.html",
+    "category": "trending",
+    "description": "A fast endless runner dodging trains and obstacles.",
+    "tag": "none"
+  },
+  {
+    "title": "Superhot",
+    "img": "images/superhot.jpg",
+    "url": "all-games/superhot.html",
+    "category": "shooter",
+    "description": "A shooter where time only moves when you move.",
+    "tag": "none"
+  },
+  {
+    "title": "SuperStarCar",
+    "img": "images/superstarcar.jpg",
+    "url": "all-games/superstarcar.html",
+    "category": "car",
+    "description": "A racing game focused on drifting and high-speed control.",
+    "tag": "none"
+  },
+  {
+    "title": "SwordFight",
+    "img": "images/swordfight.jpg",
+    "url": "all-games/swordfight.html",
+    "category": "other",
+    "description": "A fast melee dueling game with simple combat.",
+    "tag": "none"
+  },
+  {
+    "title": "Tanuki Sunset",
+    "img": "images/tanukisunset.jpg",
+    "url": "all-games/tanukisunset.html",
+    "category": "car",
+    "description": "A longboarding raccoon riding neon drifting roads.",
+    "tag": "none"
+  },
+  {
+    "title": "Zelda",
+    "img": "images/zelda.jpg",
+    "url": "all-games/zelda.html",
+    "category": "other",
+    "description": "A classic adventure series of puzzles, dungeons, and exploration.",
+    "tag": "none"
+  },
+  {
+    "title": "Worlds Hardest Game",
+    "img": "images/worldshardestgame.jpg",
+    "url": "all-games/worldshardestgame.html",
+    "category": "trending",
+    "description": "A brutal precision avoidance puzzle.",
+    "tag": "none"
+  },
+  {
+    "title": "Time Shooter",
+    "img": "images/timeshooter.jpg",
+    "url": "all-games/timeshooter.html",
+    "category": "shooter",
+    "description": "A SUPERHOT-style shooter with time manipulation.",
+    "tag": "none"
+  },
+  {
+    "title": "Tiny Fishing",
+    "img": "images/tinyfishing.jpg",
+    "url": "all-games/tinyfishing.html",
+    "category": "other",
+    "description": "A simple fishing idle game with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Tomb Of The Mask",
+    "img": "images/tombofthemask.jpg",
+    "url": "all-games/tombofthemask.html",
+    "category": "trending",
+    "description": "A maze runner with vertical traps and fast movement.",
+    "tag": "none"
+  },
+  {
+    "title": "Vex Games",
+    "img": "images/vexgames.jpg",
+    "url": "all-games/vexgames.html",
+    "category": "trending",
+    "description": "Challenging stickman parkour obstacle courses.",
+    "tag": "none"
+  },
+  {
+    "title": "War The Knights",
+    "img": "images/wartheknights.jpg",
+    "url": "all-games/wartheknights.html",
+    "category": "other",
+    "description": "A medieval action game with swords, shields, and sieges.",
+    "tag": "none"
+  },
+  {
+    "title": "Wheely Games",
+    "img": "images/wheelygames.jpg",
+    "url": "all-games/wheelygames.html",
+    "category": "trending",
+    "description": "Puzzle adventures starring Wheely the car.",
+    "tag": "none"
+  },
+  {
+    "title": "Wordle",
+    "img": "images/wordle.jpg",
+    "url": "all-games/wordle.html",
+    "category": "other",
+    "description": "A daily word-guessing puzzle with limited attempts.",
+    "tag": "none"
+  },
+  {
+    "title": "Survival Race",
+    "img": "images/survivalrace.jpg",
+    "url": "all-games/survivalrace.html",
+    "category": "car",
+    "description": "A car survival game where you avoid hazards and reach the goal.",
+    "tag": "none"
+  },
+  {
+    "title": "Stronger Than You",
+    "img": "images/strongerthanyou.jpg",
+    "url": "all-games/strongerthanyou.html",
+    "category": "other",
+    "description": "A fangame sans fight.",
     "tag": "none"
   }
 ]
