@@ -3,434 +3,657 @@
     "title": "Hollow Knight",
     "img": "images/hollowknight.jpg",
     "url": "all-games/hollowknight.html",
-    "category": "none",
+    "category": "webports",
     "description": "Hollow Knight Is A 2D Metroidvania Like Platform Game Developed By Team Cherry",
     "tag": "new"
   },
   {
-    "title": "Retro Bowl",
-    "img": "images/retrobowl.jpg",
-    "url": "all-games/retro-bowl.html",
-    "category": "trending",
-    "tag": "hot"
-  },
-  {
-    "title": "Drive Mad",
-    "img": "images/drivemad.jpg",
-    "url": "all-games/drive-mad.html",
-    "category": "trending",
+    "title": "Baldi's Basics Plus",
+    "img": "images/baldisbasicsplus.jpg",
+    "url": "all-games/baldisbasicsplus.html",
+    "category": "webports",
+    "description": "A surreal horror-education parody where you must collect notebooks and escape Baldi.",
     "tag": "none"
   },
   {
-    "title": "Subway Surfers",
-    "img": "images/subwaysurfers.jpg",
-    "url": "all-games/subway-surfers.html",
-    "category": "trending",
-    "tag": "hot"
-  },
-  {
-    "title": "Basketball Stars",
-    "img": "images/basketballstars.jpg",
-    "url": "all-games/basketball-stars.html",
-    "category": "trending",
+    "title": "Bendy And The Ink Machine",
+    "img": "images/bendy.jpg",
+    "url": "all-games/bendyandtheinkmachine.html",
+    "category": "webports",
+    "description": "A first-person puzzle horror game set in a haunted animation studio.",
     "tag": "none"
   },
   {
-    "title": "A Small World Cup",
-    "img": "images/asmallworldcup.jpg",
-    "url": "all-games/a-small-world-cup.html",
-    "category": "trending",
+    "title": "BloodMoney",
+    "img": "images/bloodmoney.jpg",
+    "url": "all-games/bloodmoney.html",
+    "category": "webports",
+    "description": "A game about needing to pay your hospital bills... By any means necessary.",
     "tag": "none"
   },
   {
-    "title": "Happy Glass",
-    "img": "images/happyglass.jpg",
-    "url": "all-games/happy-glass.html",
-    "category": "trending",
-    "tag": "new"
-  },
-  {
-    "title": "Basket Random",
-    "img": "images/basketrandom.jpg",
-    "url": "all-games/basket-random.html",
-    "category": "trending",
+    "title": "Buckshot Roulette",
+    "img": "images/buckshot.jpg",
+    "url": "all-games/buckshotroulette.html",
+    "category": "webports",
+    "description": "A game like russain roulette, with a twist.",
     "tag": "none"
   },
   {
-    "title": "Penalty Kicks",
-    "img": "images/penaltykicks.jpg",
-    "url": "all-games/penalty-kicks.html",
-    "category": "trending",
+    "title": "Celeste",
+    "img": "images/celeste.jpg",
+    "url": "all-games/celeste.html",
+    "category": "webports",
+    "description": "A precision platformer about climbing a mountain and overcoming personal struggles.",
     "tag": "none"
   },
   {
-    "title": "3D Free Kick",
-    "img": "images/3dfreekick.jpg",
-    "url": "all-games/3d-free-kick.html",
-    "category": "trending",
+    "title": "Crazy Cattle 3D",
+    "img": "images/crazycattle.jpg",
+    "url": "all-games/crazycattle.html",
+    "category": "webport",
+    "description": "Youre a sheep trying to knock over other sheep.",
     "tag": "none"
   },
   {
-    "title": "Moto X3M",
-    "img": "images/motox3m.jpg",
-    "url": "all-games/moto-x3m.html",
-    "category": "trending",
-    "tag": "none"
-  },
-
-  {
-    "title": "Happy Glass",
-    "img": "images/happyglass.jpg",
-    "url": "all-games/happy-glass.html",
-    "category": "recent",
+    "title": "Cuphead",
+    "img": "images/cuphead.jpg",
+    "url": "all-games/cuphead.html",
+    "category": "webports",
+    "description": "A tough boss-rush run-and-gun game with 1930s cartoon art.",
     "tag": "none"
   },
   {
-    "title": "Super Liquid Soccer",
-    "img": "images/superliquidsoccer.jpg",
-    "url": "all-games/super-liquid-soccer.html",
-    "category": "recent",
+    "title": "Deltatraveler",
+    "img": "images/deltatraveler.jpg",
+    "url": "all-games/deltatraveler.html",
+    "category": "webports",
+    "description": "A crossover fan-adventure blending Undertale-style combat with exploration.",
     "tag": "none"
   },
   {
-    "title": "Wordscapes",
-    "img": "images/wordscapes.jpg",
-    "url": "all-games/wordscapes.html",
-    "category": "recent",
+    "title": "Doom 3",
+    "img": "images/doom3.jpg",
+    "url": "all-games/doom3.html",
+    "category": "webports",
+    "description": "A dark sci-fi horror shooter filled with demons and claustrophobic tension.",
     "tag": "none"
   },
   {
-    "title": "Monster Tracks",
-    "img": "images/monstertrackstext.jpg",
-    "url": "all-games/monster-tracks.html",
-    "category": "recent",
-    "tag": "none"
-  },
-  {
-    "title": "3D Free Kick",
-    "img": "images/3dfreekick.jpg",
-    "url": "all-games/3d-free-kick.html",
-    "category": "recent",
-    "tag": "none"
-  },
-  {
-    "title": "Block Blast",
-    "img": "images/blockblast.jpg",
-    "url": "all-games/block-blast.html",
-    "category": "recent",
-    "tag": "none"
-  },
-  {
-    "title": "Blumgi Soccer",
-    "img": "images/blumgisoccer.jpg",
-    "url": "all-games/blumgi-soccer.html",
-    "category": "recent",
-    "tag": "none"
-  },
-  {
-    "title": "Smash Karts",
-    "img": "images/smashkarts.jpg",
-    "url": "all-games/smash-karts.html",
-    "category": "recent",
-    "tag": "none"
-  },
-  {
-    "title": "Bad Ice Cream",
-    "img": "images/badicecream.jpg",
-    "url": "all-games/bad-ice-cream.html",
-    "category": "recent",
-    "tag": "none"
-  },
-
-  {
-    "title": "Drive Mad",
-    "img": "images/drivemad.jpg",
-    "url": "all-games/drive-mad.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Basket Bros",
-    "img": "images/basketbros.jpg",
-    "url": "all-games/basket-bros.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Edge Surf",
-    "img": "images/edgesurf.jpg",
-    "url": "all-games/edge-surf.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Eggy Car",
-    "img": "images/eggycar.jpg",
-    "url": "all-games/eggy-car.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "World's Hardest Game",
-    "img": "images/worldshardestgame.jpg",
-    "url": "all-games/worlds-hardest-game.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Wordle",
-    "img": "images/wordle.jpg",
-    "url": "all-games/wordle.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Retro Bowl",
-    "img": "images/retrobowl.jpg",
-    "url": "all-games/retro-bowl.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Idle Breakout",
-    "img": "images/idlebreakout.jpg",
-    "url": "all-games/idle-breakout.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-  {
-    "title": "Ragdoll Battle 2",
-    "img": "images/ragdollbattle.jpg",
-    "url": "all-games/ragdoll-battle-2.html",
-    "category": "strategy",
-    "tag": "none"
-  },
-
-  {
-    "title": "Penalty Kicks",
-    "img": "images/penaltykicks.jpg",
-    "url": "all-games/penalty-kicks.html",
-    "category": "sports",
-    "tag": "hot"
-  },
-  {
-    "title": "Mini Putt",
-    "img": "images/miniputt.jpg",
-    "url": "all-games/mini-putt.html",
-    "category": "sports",
-    "tag": "none"
-  },
-  {
-    "title": "Basketball Stars",
-    "img": "images/basketballstars.jpg",
-    "url": "all-games/basketball-stars.html",
-    "category": "sports",
-    "tag": "none"
-  },
-  {
-    "title": "8 Ball Pool",
-    "img": "images/8ballpool.jpg",
-    "url": "all-games/8-ball-pool.html",
-    "category": "sports",
-    "tag": "none"
-  },
-  {
-    "title": "Edge Surf",
-    "img": "images/edgesurf.jpg",
-    "url": "all-games/edge-surf.html",
-    "category": "sports",
-    "tag": "none"
-  },
-  {
-    "title": "Formula1 Racer",
-    "img": "images/f1racer.jpg",
-    "url": "all-games/formula1-racer.html",
-    "category": "sports",
-    "tag": "none"
-  },
-  {
-    "title": "A Small World Cup",
-    "img": "images/asmallworldcup.jpg",
-    "url": "all-games/a-small-world-cup.html",
-    "category": "sports",
+    "title": "Fallout",
+    "img": "images/fallout.jpg",
+    "url": "all-games/fallout.html",
+    "category": "webports",
+    "description": "A post-nuclear RPG where choices shape survival in the wasteland.",
     "tag": "none"
   },
   {
     "title": "Getting Over It",
     "img": "images/gettingoverit.jpg",
-    "url": "all-games/getting-over-it.html",
-    "category": "sports",
+    "url": "all-games/gettingoverit.html",
+    "category": "webports",
+    "description": "A rage-platformer where you climb absurd obstacles using only a hammer.",
+    "tag": "none"
+  },
+  {
+    "title": "Half-Life",
+    "img": "images/halflife.jpg",
+    "url": "all-games/halflife.html",
+    "category": "webports",
+    "description": "A groundbreaking sci-fi shooter blending storytelling and physics-based combat.",
+    "tag": "none"
+  },
+  {
+    "title": "Hotline Miami",
+    "img": "images/hotline.jpg",
+    "url": "all-games/hotline.html",
+    "category": "webports",
+    "description": "A brutally fast top-down shooter with neon style and intense action",
+    "tag": "none"
+  },
+  {
+    "title": "Kindergarten",
+    "img": "images/kindergarten.jpg",
+    "url": "all-games/kindergarten.html",
+    "category": "webports",
+    "description": "A dark comedic adventure set in a bizarre, dangerous elementary school.",
+    "tag": "none"
+  },
+  {
+    "title": "Kindergarten 2",
+    "img": "images/kindergarten2.jpg",
+    "url": "all-games/kindergarten2.html",
+    "category": "webports",
+    "description": "A dark comedic adventure set in a bizarre, dangerous elementary school.",
+    "tag": "none"
+  },
+  {
+    "title": "Kindergarten 3",
+    "img": "images/kindergarten3.jpg",
+    "url": "all-games/kindergarten3.html",
+    "category": "webports",
+    "description": "A dark comedic adventure set in a bizarre, dangerous elementary school.",
+    "tag": "none"
+  },
+  {
+    "title": "OMORI",
+    "img": "images/omori.jpg",
+    "url": "all-games/omori.html",
+    "category": "webports",
+    "description": "A psychological RPG exploring memories, trauma, and hidden truths.",
+    "tag": "none"
+  },
+  {
+    "title": "Oneshot [Legacy]",
+    "img": "images/oneshot.jpg",
+    "url": "all-games/oneshot.html",
+    "category": "webports",
+    "description": "A meta-narrative puzzle RPG where you guide Niko through a dying world.",
+    "tag": "none"
+  },
+  {
+    "title": "People Playground",
+    "img": "images/peopleplayground.jpg",
+    "url": "all-games/peopleplayground.html",
+    "category": "webports",
+    "description": "A physics sandbox for experimenting with characters and machines.",
+    "tag": "none"
+  },
+  {
+    "title": "Pizza Tower",
+    "img": "images/pizzatower.jpg",
+    "url": "all-games/pizzatower.html",
+    "category": "webports",
+    "description": "A frantic Wario-style platformer starring Peppino on a chaotic rampage.",
+    "tag": "none"
+  },
+  {
+    "title": "R.E.P.O",
+    "img": "images/repo.jpg",
+    "url": "all-games/repo.html",
+    "category": "webports",
+    "description": "A stealth-action game about reclaiming property from dangerous environments.",
+    "tag": "none"
+  },
+  {
+    "title": "Raft",
+    "img": "images/raft.jpg",
+    "url": "all-games/raft.html",
+    "category": "webports",
+    "description": "A survival crafting game set on the open ocean as you expand a floating base.",
+    "tag": "none"
+  },
+  {
+    "title": "Re:Run",
+    "img": "images/rerun.jpg",
+    "url": "all-games/rerun.html",
+    "category": "webports",
+    "description": "A speedrunning battle game using parkour movement and tactical abilities.",
+    "tag": "none"
+  },
+  {
+    "title": "Schoolboy Runaway",
+    "img": "images/schoolboy.jpg",
+    "url": "all-games/schoolboy.html",
+    "category": "webports",
+    "description": "A chase-based adventure where you escape threats and solve puzzles.",
+    "tag": "none"
+  },
+  {
+    "title": "Slime Rancher",
+    "img": "images/slimerancher.jpg",
+    "url": "all-games/slimerancher.html",
+    "category": "webports",
+    "description": "A cozy first-person farming game where you collect and breed slimes.",
+    "tag": "none"
+  },
+  {
+    "title": "Sonic CD",
+    "img": "images/soniccd.jpg",
+    "url": "all-games/soniccd.html",
+    "category": "webports",
+    "description": "A fast Sonic adventure featuring time travel and unique level variations.",
+    "tag": "none"
+  },
+  {
+    "title": "Sonic Mania",
+    "img": "images/sonicmania.jpg",
+    "url": "all-games/sonicmania.html",
+    "category": "webports",
+    "description": "A retro-styled Sonic game with new zones and remixed classics.",
+    "tag": "none"
+  },
+  {
+    "title": "Speed Stars",
+    "img": "images/speedstars.jpg",
+    "url": "all-games/speedstars.html",
+    "category": "webports",
+    "description": "A timing-based sprinting game centered on precise rhythm and acceleration.",
+    "tag": "none"
+  },
+  {
+    "title": "Stick With It",
+    "img": "images/stickwithit.jpg",
+    "url": "all-games/stickwithit.html",
+    "category": "webports",
+    "description": "A physics rage game where you climb using sticky jumps and swings.",
+    "tag": "none"
+  },
+  {
+    "title": "The Man In The Window",
+    "img": "images/maninwindow.jpg",
+    "url": "all-games/maninwindow.html",
+    "category": "webports",
+    "description": "A short horror escape game where a stranger stalks your home.",
+    "tag": "none"
+  },
+  {
+    "title": "Ultrakill",
+    "img": "images/ultrakill.jpg",
+    "url": "all-games/ultrakill.html",
+    "category": "webports",
+    "description": "A hyper-fast movement shooter mixing retro violence with stylish action.",
+    "tag": "none"
+  },
+  {
+    "title": "Undertale",
+    "img": "images/undertale.jpg",
+    "url": "all-games/undertale.html",
+    "category": "webports",
+    "description": "A choice-driven RPG where every decision affects the story and characters.",
+    "tag": "none"
+  },
+  {
+    "title": "Undertale Yellow",
+    "img": "images/undertaleyellow.jpg",
+    "url": "all-games/undertaleyellow.html",
+    "category": "webports",
+    "description": "A fanmade prequel chapter following the story of the Yellow Soul.",
+    "tag": "none"
+  },
+  {
+    "title": "WebFishing",
+    "img": "images/webfishing.jpg",
+    "url": "all-games/webfishing.html",
+    "category": "webport",
+    "description": "A chill online fishing game with quirky humor and multiplayer vibes.",
+    "tag": "none"
+  },
+  {
+    "title": "Deltarune",
+    "img": "images/deltarune.jpg",
+    "url": "all-games/deltarune.html",
+    "category": "webports",
+    "description": "Deltarune is an episodic, dark fantasy RPG by Toby Fox, a follow-up to Undertale.",
+    "tag": "none"
+  },
+  {
+    "title": "10 Minutes Till Dawn",
+    "img": "images/10minstodawn.jpg",
+    "url": "all-games/10minstodawn.html",
+    "category": "strategy",
+    "description": "A survival shooter where you fend off endless waves for 10 minutes.",
+    "tag": "none"
+  },
+  {
+    "title": "1-2 Mini Battles",
+    "img": "images/12minibattles.jpg",
+    "url": "all-games/12minibattles.html",
+    "category": "twoplayer",
+    "description": "A quick competitive minigame collection for two players.",
     "tag": "none"
   },
   {
     "title": "1v1.lol",
     "img": "images/1v1lol.jpg",
-    "url": "all-games/1v1-lol.html",
+    "url": "all-games/1v1lol.html",
+    "category": "shooter",
+    "description": "A build-and-fight shooter focused on competitive duels.",
+    "tag": "none"
+  },
+  {
+    "title": "99 Balls",
+    "img": "images/99balls.jpg",
+    "url": "all-games/99balls.html",
+    "category": "strategy",
+    "description": "A brick-breaker where bouncing balls must clear rising numbered blocks.",
+    "tag": "none"
+  },
+  {
+    "title": "A Small World Cup",
+    "img": "images/smallworldcup.jpg",
+    "url": "all-games/smallworldcup.html",
     "category": "sports",
-    "tag": "none"
-  },
-
-  {
-    "title": "Papa's Pizzeria",
-    "img": "images/papaspizzeria.jpg",
-    "url": "all-games/papas-pizzeria.html",
-    "category": "papalouie",
+    "description": "A simple physics soccer game with tiny characters.",
     "tag": "none"
   },
   {
-    "title": "Papa's Freezeria",
-    "img": "images/papasfreezeria.webp",
-    "url": "all-games/papas-freezeria.html",
-    "category": "papalouie",
-    "tag": "hot"
-  },
-  {
-    "title": "Papa's Cheeseria",
-    "img": "images/papascheeseria.webp",
-    "url": "all-games/papas-cheeseria.html",
-    "category": "papalouie",
+    "title": "Angry Birds",
+    "img": "images/angrybirds.jpg",
+    "url": "all-games/angrybirds.html",
+    "category": "strategy",
+    "description": "Launch birds to destroy structures in this physics puzzle classic.",
     "tag": "none"
   },
   {
-    "title": "Papa's Burgeria",
-    "img": "images/papasburgeria.jpg",
-    "url": "all-games/papas-burgeria.html",
-    "category": "papalouie",
+    "title": "Bad Monday Simulator",
+    "img": "images/badmondaysimulator.jpg",
+    "url": "all-games/badmondaysimulator.html",
+    "category": "other",
+    "description": "A Sans battle fangame inspired by Garfield memes.",
     "tag": "none"
   },
   {
-    "title": "Papa's Sushiria",
-    "img": "images/papassushiria.jpg",
-    "url": "all-games/papas-sushiria.html",
-    "category": "papalouie",
+    "title": "Bad Time Simulator",
+    "img": "images/badtime.jpg",
+    "url": "all-games/badtime.html",
+    "category": "other",
+    "description": "A browser recreation of the Undertale Sans fight.",
     "tag": "none"
   },
   {
-    "title": "Papa's Cupcakeria",
-    "img": "images/papascupcakeria.webp",
-    "url": "all-games/papas-cupcakeria.html",
-    "category": "papalouie",
+    "title": "Bank Robbery",
+    "img": "images/bankrobbery.jpg",
+    "url": "all-games/bankrobbery.html",
+    "category": "shooter",
+    "description": "A simple bank robbery game.",
     "tag": "none"
   },
   {
-    "title": "Papa's Tacomia",
-    "img": "images/papastacomia.webp",
-    "url": "all-games/papas-tacomia.html",
-    "category": "papalouie",
+    "title": "Basketball Bros",
+    "img": "images/basketballbros.jpg",
+    "url": "all-games/basketballbros.html",
+    "category": "sports",
+    "description": "An arcade baseball game with over-the-top batting.",
     "tag": "none"
   },
   {
-    "title": "Papa's Hot Doggeria",
-    "img": "images/papashotdoggeria.webp",
-    "url": "all-games/papas-hot-doggeria.html",
-    "category": "papalouie",
+    "title": "Binding Of Issac",
+    "img": "images/bindingofissac.jpg",
+    "url": "all-games/bindingofissac.html",
+    "category": "other",
+    "description": "A roguelike dungeon crawler full of items, mutations, and chaos.",
     "tag": "none"
   },
   {
-    "title": "Papa's Pastaria",
-    "img": "images/papaspastaria.webp",
-    "url": "all-games/papas-pastaria.html",
-    "category": "papalouie",
-    "tag": "none"
-  },
-
-  {
-    "title": "Mario Kart 64",
-    "img": "images/mariokart64.jpg",
-    "url": "all-games/mario-kart-64.html",
-    "category": "emulated",
+    "title": "Bitlife",
+    "img": "images/bitlife.jpg",
+    "url": "all-games/bitlife.html",
+    "category": "other",
+    "description": "A life simulator where choices shape careers, relationships, and fate.",
     "tag": "none"
   },
   {
-    "title": "Pokemon Platinum",
-    "img": "images/pokemonplatinum.jpg",
-    "url": "all-games/pokemon-platinum.html",
-    "category": "emulated",
-    "tag": "new"
-  },
-  {
-    "title": "Donkey Kong Country",
-    "img": "images/donkeykongcountry.jpg",
-    "url": "all-games/donkey-kong-country.html",
-    "category": "emulated",
+    "title": "Bitplanes",
+    "img": "images/bitplanes.jpg",
+    "url": "all-games/bitplanes.html",
+    "category": "other",
+    "description": "A minimalist dogfighting game with simple vector-style graphics.",
     "tag": "none"
   },
   {
-    "title": "Super Mario 64",
-    "img": "images/supermario64.jpg",
-    "url": "all-games/super-mario-64.html",
-    "category": "emulated",
+    "title": "Blackjack",
+    "img": "images/blackjack.jpg",
+    "url": "all-games/blackjack.html",
+    "category": "strategy",
+    "description": "Classic casino card game of hitting, standing, and beating the dealer.",
     "tag": "none"
   },
   {
-    "title": "Pokemon Emerald",
-    "img": "images/pokemonemerald.jpg",
-    "url": "all-games/pokemon-emerald.html",
-    "category": "emulated",
-    "tag": "hot"
-  },
-  {
-    "title": "Pokemon FireRed",
-    "img": "images/pokemonfirered.jpg",
-    "url": "all-games/pokemon-firered.html",
-    "category": "emulated",
+    "title": "Bladeball",
+    "img": "images/bladeball.jpg",
+    "url": "all-games/bladeball.html",
+    "category": "other",
+    "description": "A reflex-based dodge game where you deflect a speeding ball to survive.",
     "tag": "none"
   },
   {
-    "title": "Pokemon Ruby",
-    "img": "images/pokemonruby.jpg",
-    "url": "all-games/pokemon-ruby.html",
-    "category": "emulated",
+    "title": "Blockblast",
+    "img": "images/blockblast.jpg",
+    "url": "all-games/blockblast.html",
+    "category": "strategy",
+    "description": "A puzzle game about placing shapes to clear lines and earn points.",
     "tag": "none"
   },
   {
-    "title": "Pokemon Sapphire",
-    "img": "images/pokemonsapphire.jpg",
-    "url": "all-games/pokemon-sapphire.html",
-    "category": "emulated",
-    "tag": "new"
-  },
-  {
-    "title": "Mario Kart DS",
-    "img": "images/mariokartds.jpg",
-    "url": "all-games/mario-kart-ds.html",
-    "category": "emulated",
+    "title": "Blocky Snakes",
+    "img": "images/blockysnakes.jpg",
+    "url": "all-games/blockysnakes.html",
+    "category": "other",
+    "description": "A snake-style game with blocky characters and competitive modes.",
     "tag": "none"
   },
   {
-    "title": "New Super Mario Bros",
-    "img": "images/newsupermariobros.jpg",
-    "url": "all-games/new-super-mario-bros.html",
-    "category": "emulated",
-    "tag": "none"
-  },
-
-  {
-    "title": "Basket Random",
-    "img": "images/basketrandom.jpg",
-    "url": "all-games/basket-random.html",
-    "category": "twoplayer",
+    "title": "Bloons TD",
+    "img": "images/bloons.jpg",
+    "url": "all-games/bloons.html",
+    "category": "bloons",
+    "description": "A tower defense game about popping waves of balloons.",
     "tag": "none"
   },
   {
-    "title": "Soccer Random",
-    "img": "images/soccerrandom.jpg",
-    "url": "all-games/soccer-random.html",
-    "category": "twoplayer",
+    "title": "Bloons TD2",
+    "img": "images/bloons2.jpg",
+    "url": "all-games/bloons2.html",
+    "category": "bloons",
+    "description": "A tower defense game about popping waves of balloons.",
     "tag": "none"
   },
   {
-    "title": "Volley Random",
-    "img": "images/volleyrandom.jpg",
-    "url": "all-games/volley-random.html",
-    "category": "twoplayer",
+    "title": "Bloons TD3",
+    "img": "images/bloons3.jpg",
+    "url": "all-games/bloons3.html",
+    "category": "bloons",
+    "description": "A tower defense game about popping waves of balloons.",
     "tag": "none"
   },
   {
-    "title": "Boxing Random",
-    "img": "images/boxingrandom.jpg",
-    "url": "all-games/boxing-random.html",
-    "category": "twoplayer",
+    "title": "Bloons TD4",
+    "img": "images/bloons4.jpg",
+    "url": "all-games/bloons4.html",
+    "category": "bloons",
+    "description": "A tower defense game about popping waves of balloons.",
     "tag": "none"
-  }
+  },
+  {
+    "title": "Bloons TD5",
+    "img": "images/bloons5.jpg",
+    "url": "all-games/bloons5.html",
+    "category": "bloons",
+    "description": "A tower defense game about popping waves of balloons.",
+    "tag": "none"
+  },
+  {
+    "title": "Bloxorz",
+    "img": "images/bloxorz.jpg",
+    "url": "all-games/bloxorz.html",
+    "category": "strategy",
+    "description": "A 3D block-rolling puzzle where you navigate mazes and switches.",
+    "tag": "none"
+  },
+  {
+    "title": "Blumgi Rocket",
+    "img": "images/blumgi.jpg",
+    "url": "all-games/blumgi.html",
+    "category": "car",
+    "description": "A car game with a rocket attached on the back.",
+    "tag": "none"
+  },
+  {
+    "title": "Bottle Jump",
+    "img": "images/bottlejump.jpg",
+    "url": "all-games/bottlejump.html",
+    "category": "strategy",
+    "description": "Flip a bottle onto platforms using precise power and timing.",
+    "tag": "none"
+  },
+  {
+    "title": "Bridge Race",
+    "img": "images/bridgerace.jpg",
+    "url": "all-games/bridgerace.html",
+    "category": "other",
+    "description": "Collect blocks and build bridges to reach the finish first.",
+    "tag": "none"
+  },
+  {
+    "title": "BuildNow.gg",
+    "img": "images/buildnow.jpg",
+    "url": "all-games/buildnow.html",
+    "category": "shooter",
+    "description": "A build-and-shoot competitive game similar to Fortnite mechanics.",
+    "tag": "none"
+  },
+  {
+    "title": "CircleO",
+    "img": "images/circle.jpg",
+    "url": "all-games/circle.html",
+    "category": "strategy",
+    "description": "A simple arcade game of rotating circles and precise timing.",
+    "tag": "none"
+  },
+  {
+    "title": "CircleO 2",
+    "img": "images/circle2.jpg",
+    "url": "all-games/circle2.html",
+    "category": "strategy",
+    "description": "A simple arcade game of rotating circles and precise timing.",
+    "tag": "none"
+  },
+  {
+    "title": "Cluster Rush",
+    "img": "images/cluster.jpg",
+    "url": "all-games/cluster.html",
+    "category": "car",
+    "description": "Jump across speeding trucks in a chaotic obstacle run.",
+    "tag": "none"
+  },
+  {
+    "title": "Cookie Clicker",
+    "img": "images/cookieclicker.jpg",
+    "url": "all-games/cookieclicker.html",
+    "category": "other",
+    "description": "A clicker game centered on making infinite cookies.",
+    "tag": "none"
+  },
+  {
+    "title": "Coreball",
+    "img": "images/coreball.jpg",
+    "url": "all-games/coreball.html",
+    "category": "strategy",
+    "description": "A timing game where you attach balls to a rotating core without colliding.",
+    "tag": "none"
+  },
+  {
+    "title": "Crazy Cars",
+    "img": "images/crazycars.jpg",
+    "url": "all-games/crazycars.html",
+    "category": "car",
+    "description": "Fast-paced stunt racing with exaggerated physics.",
+    "tag": "none"
+  },
+  {
+    "title": "Crossy Road",
+    "img": "images/crossyroad.jpg",
+    "url": "all-games/crossyroad.html",
+    "category": "other",
+    "description": "An endless road-crossing game avoiding cars and hazards.",
+    "tag": "none"
+  },
+  {
+    "title": "Crush Cars 3D",
+    "img": "images/crushcars.jpg",
+    "url": "all-games/crushcars.html",
+    "category": "car",
+    "description": "A demolition game focused on smashing and destroying vehicles.",
+    "tag": "none"
+  },
+  {
+    "title": "Death Run 3D",
+    "img": "images/deathrun.jpg",
+    "url": "all-games/deathrun.html",
+    "category": "other",
+    "description": "A tunnel-runner dodging obstacles at extreme speeds.",
+    "tag": "none"
+  },
+  {
+    "title": "Draw Joust",
+    "img": "images/drawjoust.jpg",
+    "url": "all-games/drawjoust.html",
+    "category": "car",
+    "description": "Draw your vehicle and battle opponents using physics.",
+    "tag": "none"
+  },
+  {
+    "title": "Drift Boss",
+    "img": "images/driftboss.jpg",
+    "url": "all-games/driftboss.html",
+    "category": "car",
+    "description": "Drift through tight turns with simple one-button controls.",
+    "tag": "none"
+  },
+  {
+    "title": "Driss Hunters",
+    "img": "images/drifthunters.jpg",
+    "url": "all-games/drifthunters.html",
+    "category": "car",
+    "description": "A drifting car game with deep customization and upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Drive Mad",
+    "img": "images/drivemad.jpg",
+    "url": "all-games/drivemad.html",
+    "category": "car",
+    "description": "A wobbly physics driving challenge with surprising obstacles.",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  {
+    "title": "Change",
+    "img": "images/Change.jpg",
+    "url": "all-games/Change.html",
+    "category": "none",
+    "description": "change",
+    "tag": "none"
+  },
+  
 ]
