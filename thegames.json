@@ -656,9 +656,17 @@
     "tag": "none"
   },
   {
-    "title": "Smashy Road Games",
-    "img": "images/smashyroadgames.jpg",
-    "url": "all-games/smashyroadgames.html",
+    "title": "Escape Road",
+    "img": "images/escaperoad.jpg",
+    "url": "all-games/escaperoad.html",
+    "category": "car",
+    "description": "Escape police in chaotic car chases with random worlds.",
+    "tag": "none"
+  },
+  {
+    "title": "Escape Road 2",
+    "img": "images/escaperoad2.jpg",
+    "url": "all-games/escaperoad2.html",
     "category": "car",
     "description": "Escape police in chaotic car chases with random worlds.",
     "tag": "none"
@@ -1120,14 +1128,6 @@
     "tag": "none"
   },
   {
-    "title": "OVO Games",
-    "img": "images/ovogames.jpg",
-    "url": "all-games/ovogames.html",
-    "category": "trending",
-    "description": "Precision parkour platformers with fast movement.",
-    "tag": "none"
-  },
-  {
     "title": "Pixel Gun Survival",
     "img": "images/pixelgunsurvival.jpg",
     "url": "all-games/pixelgunsurvival.html",
@@ -1181,14 +1181,6 @@
     "url": "all-games/rooftopsnipers.html",
     "category": "twoplayer",
     "description": "A two-button physics shooter on thin rooftops.",
-    "tag": "none"
-  },
-  {
-    "title": "Run Games",
-    "img": "images/rungames.jpg",
-    "url": "all-games/rungames.html",
-    "category": "trending",
-    "description": "Endless running games dodging obstacles and enemies.",
     "tag": "none"
   },
   {
@@ -1360,27 +1352,11 @@
     "tag": "none"
   },
   {
-    "title": "Vex Games",
-    "img": "images/vexgames.jpg",
-    "url": "all-games/vexgames.html",
-    "category": "trending",
-    "description": "Challenging stickman parkour obstacle courses.",
-    "tag": "none"
-  },
-  {
     "title": "War The Knights",
     "img": "images/wartheknights.jpg",
     "url": "all-games/wartheknights.html",
     "category": "other",
     "description": "A medieval action game with swords, shields, and sieges.",
-    "tag": "none"
-  },
-  {
-    "title": "Wheely Games",
-    "img": "images/wheelygames.jpg",
-    "url": "all-games/wheelygames.html",
-    "category": "trending",
-    "description": "Puzzle adventures starring Wheely the car.",
     "tag": "none"
   },
   {
