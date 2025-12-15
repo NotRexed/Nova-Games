@@ -323,7 +323,7 @@
     "title": "Drive Mad",
     "img": "images/drivemad.jpg",
     "url": "all-games/drivemad.html",
-    "category": "car",
+    "category": "trending",
     "description": "A wobbly physics driving challenge with surprising obstacles.",
     "tag": "hot"
   },
@@ -683,7 +683,7 @@
     "title": "Flappy Bird",
     "img": "images/flappybird.jpg",
     "url": "all-games/flappybird.html",
-    "category": "trending",
+    "category": "other",
     "description": "Tap to navigate gaps in pipes in this iconic endless flier.",
     "tag": "none"
   },
@@ -691,7 +691,7 @@
     "title": "Flappy Dunk",
     "img": "images/flappydunk.jpg",
     "url": "all-games/flappydunk.html",
-    "category": "trending",
+    "category": "other",
     "description": "Tap to sink a bouncing ball through hoops mid-air.",
     "tag": "none"
   },
@@ -699,7 +699,7 @@
     "title": "Fruit Ninja",
     "img": "images/fruitninja.jpg",
     "url": "all-games/fruitninja.html",
-    "category": "trending",
+    "category": "other",
     "description": "Slice fruit mid-air with quick swipes and combos.",
     "tag": "none"
   },
@@ -707,7 +707,7 @@
     "title": "Geometry Dash",
     "img": "images/geometrydash.jpg",
     "url": "all-games/geometrydash.html",
-    "category": "trending",
+    "category": "other",
     "description": "A rhythm-platformer with fast levels and precise timing.",
     "tag": "none"
   },
@@ -715,7 +715,7 @@
     "title": "Getaway Shootout",
     "img": "images/getawayshootout.jpg",
     "url": "all-games/getawayshootout.html",
-    "category": "trending",
+    "category": "other",
     "description": "Race and shoot your way to the getaway vehicle.",
     "tag": "none"
   },
@@ -851,7 +851,7 @@
     "title": "Going Balls",
     "img": "images/goingballs.jpg",
     "url": "all-games/goingballs.html",
-    "category": "trending",
+    "category": "other",
     "description": "Roll a ball through obstacle-filled courses with momentum.",
     "tag": "none"
   },
@@ -883,7 +883,7 @@
     "title": "Happy Wheels",
     "img": "images/happywheels.jpg",
     "url": "all-games/happywheels.html",
-    "category": "trending",
+    "category": "other",
     "description": "A ragdoll physics obstacle course with gruesome humor.",
     "tag": "none"
   },
@@ -995,7 +995,7 @@
     "title": "Jetpack Joyride",
     "img": "images/jetpackjoyride.jpg",
     "url": "all-games/jetpackjoyride.html",
-    "category": "trending",
+    "category": "other",
     "description": "A side-scrolling jetpack runner dodging hazards.",
     "tag": "none"
   },
@@ -1203,7 +1203,7 @@
     "title": "Red Ball",
     "img": "images/redball.jpg",
     "url": "all-games/redball.html",
-    "category": "trending",
+    "category": "other",
     "description": "A physics platformer starring a rolling red ball.",
     "tag": "none"
   },
@@ -1307,7 +1307,7 @@
     "title": "Stickman Hook",
     "img": "images/stickmanhook.jpg",
     "url": "all-games/stickmanhook.html",
-    "category": "trending",
+    "category": "other",
     "description": "A grappling swing-game with timing-based momentum.",
     "tag": "none"
   },
@@ -1315,7 +1315,7 @@
     "title": "Subway Surfers",
     "img": "images/subwaysurfers.jpg",
     "url": "all-games/subwaysurfers.html",
-    "category": "trending",
+    "category": "other",
     "description": "A fast endless runner dodging trains and obstacles.",
     "tag": "none"
   },
@@ -1363,7 +1363,7 @@
     "title": "Worlds Hardest Game",
     "img": "images/worldshardestgame.jpg",
     "url": "all-games/worldshardestgame.html",
-    "category": "trending",
+    "category": "other",
     "description": "A brutal precision avoidance puzzle.",
     "tag": "none"
   },
@@ -1387,7 +1387,7 @@
     "title": "Tomb Of The Mask",
     "img": "images/tombofthemask.jpg",
     "url": "all-games/tombofthemask.html",
-    "category": "trending",
+    "category": "other",
     "description": "A maze runner with vertical traps and fast movement.",
     "tag": "none"
   },
