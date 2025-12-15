@@ -608,10 +608,34 @@
     "tag": "none"
   },
   {
-    "title": "Duck Life Games",
-    "img": "images/ducklifegames.jpg",
-    "url": "all-games/ducklifegames.html",
-    "category": "trending",
+    "title": "DuckLife",
+    "img": "images/ducklife.jpg",
+    "url": "all-games/ducklife.html",
+    "category": "ducklife",
+    "description": "Train and race evolving ducks across multiple skills.",
+    "tag": "none"
+  },
+  {
+    "title": "DuckLife 2",
+    "img": "images/ducklife2.jpg",
+    "url": "all-games/ducklife2.html",
+    "category": "ducklife",
+    "description": "Train and race evolving ducks across multiple skills.",
+    "tag": "none"
+  },
+  {
+    "title": "DuckLife 3",
+    "img": "images/ducklife3.jpg",
+    "url": "all-games/ducklife3.html",
+    "category": "ducklife",
+    "description": "Train and race evolving ducks across multiple skills.",
+    "tag": "none"
+  },
+  {
+    "title": "DuckLife 4",
+    "img": "images/ducklife4.jpg",
+    "url": "all-games/ducklife4.html",
+    "category": "ducklife",
     "description": "Train and race evolving ducks across multiple skills.",
     "tag": "none"
   },
@@ -621,6 +645,14 @@
     "url": "all-games/emulatorjs.html",
     "category": "emulated",
     "description": "An in-browser emulator for classic retro game ROMs.",
+    "tag": "none"
+  },
+  {
+    "title": "DuckLife 5",
+    "img": "images/ducklife5.jpg",
+    "url": "all-games/ducklife5.html",
+    "category": "ducklife",
+    "description": "Train and race evolving ducks across multiple skills.",
     "tag": "none"
   },
   {
