@@ -888,10 +888,58 @@
     "tag": "none"
   },
   {
-    "title": "Highway Racer Games",
-    "img": "images/highwayracergames.jpg",
-    "url": "all-games/highwayracergames.html",
+    "title": "Highway Racer 2",
+    "img": "images/highwayracer2.jpg",
+    "url": "all-games/highwayracer2.html",
     "category": "car",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M",
+    "img": "images/motox3m.jpg",
+    "url": "all-games/motox3m.html",
+    "category": "motox3m",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M 2",
+    "img": "images/motox3m2.jpg",
+    "url": "all-games/motox3m2.html",
+    "category": "motox3m",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M 3",
+    "img": "images/motox3m3.jpg",
+    "url": "all-games/motox3m3.html",
+    "category": "motox3m",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M Pool Party",
+    "img": "images/motox3mpool.jpg",
+    "url": "all-games/motox3mpool.html",
+    "category": "motox3m",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M Spooky",
+    "img": "images/motox3mspooky.jpg",
+    "url": "all-games/motox3mspooky.html",
+    "category": "motox3m",
+    "description": "High-speed traffic dodging racers with upgrades.",
+    "tag": "none"
+  },
+  {
+    "title": "Moto X3M Winter",
+    "img": "images/motox3mwinter.jpg",
+    "url": "all-games/motox3mwinter.html",
+    "category": "motox3m",
     "description": "High-speed traffic dodging racers with upgrades.",
     "tag": "none"
   },
