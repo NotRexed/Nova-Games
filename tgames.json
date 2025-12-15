@@ -320,6 +320,14 @@
     "tag": "none"
   },
   {
+    "title": "Drive Mad",
+    "img": "images/drivemad.jpg",
+    "url": "all-games/drivemad.html",
+    "category": "car",
+    "description": "A wobbly physics driving challenge with surprising obstacles.",
+    "tag": "hot"
+  },
+  {
     "title": "A Small World Cup",
     "img": "images/smallworldcup.jpg",
     "url": "all-games/smallworldcup.html",
@@ -598,14 +606,6 @@
     "category": "car",
     "description": "A drifting car game with deep customization and upgrades.",
     "tag": "none"
-  },
-  {
-    "title": "Drive Mad",
-    "img": "images/drivemad.jpg",
-    "url": "all-games/drivemad.html",
-    "category": "car",
-    "description": "A wobbly physics driving challenge with surprising obstacles.",
-    "tag": "hot"
   },
   {
     "title": "DuckLife",
