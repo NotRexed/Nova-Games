@@ -1342,5 +1342,93 @@
     "category": "fnaf",
     "description": "Custom Fnaf Game",
     "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin",
+    "img": "images/fnf.jpg",
+    "url": "all-games/fnf.html",
+    "category": "fnf",
+    "description": "Original FNF",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Hit Single Real",
+    "img": "images/fnfhsr.jpg",
+    "url": "all-games/fnfhsr.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Indie Cross",
+    "img": "images/fnfic.jpg",
+    "url": "all-games/fnfic.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
+    "img": "images/fnfsarvente.jpg",
+    "url": "all-games/fnfsarvente.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Neo",
+    "img": "images/fnfneo.jpg",
+    "url": "all-games/fnfneo.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Garcello",
+    "img": "images/fnfgarcello.jpg",
+    "url": "all-games/fnfgarcello.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Hatsune Miku",
+    "img": "images/fnfmiku.jpg",
+    "url": "all-games/fnfmiku.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Hex",
+    "img": "images/fnfhex.jpg",
+    "url": "all-games/fnfhex.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': QT",
+    "img": "images/fnfqt.jpg",
+    "url": "all-games/fnfqt.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Whitty",
+    "img": "images/fnfwhitty.jpg",
+    "url": "all-games/fnfwhitty.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
+  },
+  {
+    "title": "Friday Night Funkin': Tricky",
+    "img": "images/fnftricky.jpg",
+    "url": "all-games/fnftricky.html",
+    "category": "fnf",
+    "description": "FNF Mod",
+    "tag": "none"
   }
 ]
