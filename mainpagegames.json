@@ -1246,5 +1246,101 @@
     "category": "other",
     "description": "A fangame sans fight.",
     "tag": "none"
-  }
+  },
+  {
+    "title": "Five Nights At Freddy's",
+    "img": "images/fnaf.jpg",
+    "url": "all-games/fnaf.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's 2",
+    "img": "images/fnaf2.jpg",
+    "url": "all-games/fnaf2.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's 3",
+    "img": "images/fnaf3.jpg",
+    "url": "all-games/fnaf3.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's 4",
+    "img": "images/fnaf4.jpg",
+    "url": "all-games/fnaf4.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's 4 Halloween",
+    "img": "images/fnaf4h.jpg",
+    "url": "all-games/fnaf4h.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's: Pizza Simulator",
+    "img": "images/fnafpizza.jpg",
+    "url": "all-games/fnafpizza.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's: Sister Location",
+    "img": "images/fnafsister.jpg",
+    "url": "all-games/fnafsister.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Freddy's: World",
+    "img": "images/fnafworld.jpg",
+    "url": "all-games/fnafworld.html",
+    "category": "fnaf",
+    "description": "The Real Five Nights At Freddys Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Winston's",
+    "img": "images/winstons.jpg",
+    "url": "all-games/winstons.html",
+    "category": "fnaf",
+    "description": "Fnaf Fan Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Candy's",
+    "img": "images/candys.jpg",
+    "url": "all-games/candys.html",
+    "category": "fnaf",
+    "description": "Fnaf Fan Game",
+    "tag": "none"
+  },
+  {
+    "title": "Five Nights At Candy's 2",
+    "img": "images/candys2.jpg",
+    "url": "all-games/candys2.html",
+    "category": "fnaf",
+    "description": "Fnaf Fan Game",
+    "tag": "none"
+  },
+  {
+    "title": "Ultimate Custom Night",
+    "img": "images/ucn.jpg",
+    "url": "all-games/ucn.html",
+    "category": "fnaf",
+    "description": "Custom Fnaf Game",
+    "tag": "none"
+  },
 ]
