@@ -1430,5 +1430,117 @@
     "category": "fnf",
     "description": "FNF Mod",
     "tag": "none"
+  },
+  {
+    "title": "Papa's Bakeria",
+    "img": "images/papabakeria.jpg",
+    "url": "all-games/papabakeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Burgeria",
+    "img": "images/papaburgeria.jpg",
+    "url": "all-games/papaburgeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Cheeseria",
+    "img": "images/papacheeseria.jpg",
+    "url": "all-games/papacheeseria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Cupcakeria",
+    "img": "images/papacupcakeria.jpg",
+    "url": "all-games/papacupcakeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Donuteria",
+    "img": "images/papadonuteria.jpg",
+    "url": "all-games/papabakeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Freezeria",
+    "img": "images/papafreezeria.jpg",
+    "url": "all-games/papafreezeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Hot Doggeria",
+    "img": "images/papahotdoggeria.jpg",
+    "url": "all-games/papahotdoggeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Pancakeria",
+    "img": "images/papapancakeria.jpg",
+    "url": "all-games/papapancakeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Pastaria",
+    "img": "images/papapastaria.jpg",
+    "url": "all-games/papapastaria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Pizzeria",
+    "img": "images/papapizzeria.jpg",
+    "url": "all-games/papapizzeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Scooperia",
+    "img": "images/papascooperia.jpg",
+    "url": "all-games/papascooperia.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Sushiria",
+    "img": "images/papasushiria.jpg",
+    "url": "all-games/papasushiria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Taco Mia",
+    "img": "images/papatacomia.jpg",
+    "url": "all-games/papatacomia.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
+  },
+  {
+    "title": "Papa's Wingeria",
+    "img": "images/papawingeria.jpg",
+    "url": "all-games/papawingeria.html",
+    "category": "papalouie",
+    "description": "Papa Louie Food Games",
+    "tag": "none"
   }
 ]
