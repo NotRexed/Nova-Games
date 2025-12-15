@@ -1566,5 +1566,29 @@
     "category": "papalouie",
     "description": "Papa Louie Food Games",
     "tag": "none"
+  },
+  {
+    "title": "Granny",
+    "img": "images/granny.jpg",
+    "url": "all-games/granny.html",
+    "category": "survival",
+    "description": "Original Granny Games",
+    "tag": "none"
+  },
+  {
+    "title": "Granny 2",
+    "img": "images/granny2.jpg",
+    "url": "all-games/granny2.html",
+    "category": "survival",
+    "description": "Original Granny Games",
+    "tag": "none"
+  },
+  {
+    "title": "Granny 3",
+    "img": "images/granny3.jpg",
+    "url": "all-games/granny3.html",
+    "category": "survival",
+    "description": "Original Granny Games",
+    "tag": "none"
   }
 ]
