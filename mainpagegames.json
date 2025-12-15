@@ -864,9 +864,65 @@
     "tag": "none"
   },
   {
-    "title": "Minecraft Versions",
-    "img": "images/minecraftversions.jpg",
-    "url": "all-games/minecraftversions.html",
+    "title": "Minecraft Indev",
+    "img": "images/minecraftindev.jpg",
+    "url": "all-games/minecraftindev.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft Alpha 1.2.6",
+    "img": "images/minecraftalpha.jpg",
+    "url": "all-games/minecraftalpha.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft Beta 1.3",
+    "img": "images/minecraftbeta13.jpg",
+    "url": "all-games/minecraftbeta13.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft Beta 1.7.3",
+    "img": "images/minecraftbeta173.jpg",
+    "url": "all-games/minecraftbeta173.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft 1.5.2",
+    "img": "images/minecraft152.jpg",
+    "url": "all-games/minecraft152.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft 1.8.8",
+    "img": "images/minecraft188.jpg",
+    "url": "all-games/minecraft188.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft 1.12.2",
+    "img": "images/minecraft1122.jpg",
+    "url": "all-games/minecraft1122.html",
+    "category": "minecraft",
+    "description": "Playable builds of Minecraft across versions and mods.",
+    "tag": "none"
+  },
+  {
+    "title": "Minecraft 1.21.4",
+    "img": "images/minecraft1214.jpg",
+    "url": "all-games/minecraft1214.html",
     "category": "minecraft",
     "description": "Playable builds of Minecraft across versions and mods.",
     "tag": "none"
