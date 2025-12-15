@@ -720,6 +720,134 @@
     "tag": "none"
   },
   {
+    "title": "Run",
+    "img": "images/run.jpg",
+    "url": "all-games/run.html",
+    "category": "run",
+    "description": "Whatever you do... Dont fall down.",
+    "tag": "none"
+  },
+  {
+    "title": "Run 2",
+    "img": "images/run2.jpg",
+    "url": "all-games/run2.html",
+    "category": "run",
+    "description": "Whatever you do... Dont fall down.",
+    "tag": "none"
+  },
+  {
+    "title": "Run 3",
+    "img": "images/run3.jpg",
+    "url": "all-games/run3.html",
+    "category": "run",
+    "description": "Whatever you do... Dont fall down.",
+    "tag": "none"
+  },
+  {
+    "title": "Vex",
+    "img": "images/vex.jpg",
+    "url": "all-games/vex.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 2",
+    "img": "images/vex2.jpg",
+    "url": "all-games/vex2.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 3",
+    "img": "images/vex3.jpg",
+    "url": "all-games/vex3.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 3 XMAS",
+    "img": "images/vex3xmas.jpg",
+    "url": "all-games/vex3xmas.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 4",
+    "img": "images/vex.jpg",
+    "url": "all-games/vex.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 4",
+    "img": "images/vex4.jpg",
+    "url": "all-games/vex4.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 5",
+    "img": "images/vex5.jpg",
+    "url": "all-games/vex5.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 6",
+    "img": "images/vex6.jpg",
+    "url": "all-games/vex6.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 7",
+    "img": "images/vex7.jpg",
+    "url": "all-games/vex7.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex 8",
+    "img": "images/vex8.jpg",
+    "url": "all-games/vex8.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex Challenges",
+    "img": "images/vexc.jpg",
+    "url": "all-games/vexc.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex X3M",
+    "img": "images/vexx3m.jpg",
+    "url": "all-games/vexx3m.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
+    "title": "Vex X3M 2",
+    "img": "images/vexx3m2.jpg",
+    "url": "all-games/vexx3m2.html",
+    "category": "vex",
+    "description": "Fast Paced Platformer",
+    "tag": "none"
+  },
+  {
     "title": "Going Balls",
     "img": "images/goingballs.jpg",
     "url": "all-games/goingballs.html",
@@ -733,14 +861,6 @@
     "url": "all-games/googlebaseball.html",
     "category": "sports",
     "description": "A fun baseball minigame from Google Doodles.",
-    "tag": "none"
-  },
-  {
-    "title": "Granny Games",
-    "img": "images/grannygames.jpg",
-    "url": "all-games/grannygames.html",
-    "category": "other",
-    "description": "Escape a creepy house while avoiding Granny’s traps.",
     "tag": "none"
   },
   {
