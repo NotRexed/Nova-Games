@@ -777,14 +777,6 @@
   },
   {
     "title": "Vex 4",
-    "img": "images/vex.jpg",
-    "url": "all-games/vex.html",
-    "category": "vex",
-    "description": "Fast Paced Platformer",
-    "tag": "none"
-  },
-  {
-    "title": "Vex 4",
     "img": "images/vex4.jpg",
     "url": "all-games/vex4.html",
     "category": "vex",
