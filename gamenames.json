@@ -224,14 +224,6 @@
     "tag": "none"
   },
   {
-    "title": "Speed Stars",
-    "img": "images/speedstars.jpg",
-    "url": "study/speedstars.html",
-    "category": "webports",
-    "description": "A timing-based sprinting game centered on precise rhythm and acceleration.",
-    "tag": "none"
-  },
-  {
     "title": "Stick With It",
     "img": "images/stickwithit.jpg",
     "url": "study/stickwithit.html",
