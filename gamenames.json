@@ -536,14 +536,6 @@
     "tag": "none"
   },
   {
-    "title": "Coreball",
-    "img": "images/coreball.jpg",
-    "url": "study/coreball.html",
-    "category": "strategy",
-    "description": "A timing game where you attach balls to a rotating core without colliding.",
-    "tag": "none"
-  },
-  {
     "title": "Crazy Cars",
     "img": "images/crazycars.jpg",
     "url": "study/crazycars.html",
