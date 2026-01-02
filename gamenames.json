@@ -488,14 +488,6 @@
     "tag": "none"
   },
   {
-    "title": "Bottle Jump",
-    "img": "images/bottlejump.jpg",
-    "url": "study/bottlejump.html",
-    "category": "strategy",
-    "description": "Flip a bottle onto platforms using precise power and timing.",
-    "tag": "none"
-  },
-  {
     "title": "Bridge Race",
     "img": "images/bridgerace.jpg",
     "url": "study/bridgerace.html",
